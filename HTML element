@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>HTML Demo</title>
+  </head>
+
+  <body>
+    <h1>
+      Welcome to Kinza's home page
+    </h1>
+    <hr>
+    <p>
+      I am on my way to become a great cloud application developer!!!
+    </p>
+    <div>
+      I will soon be a frameworks wizard<br>
+      Check out the javascript I have written by clicking the button below.
+    </div><br>
+    <button onclick="hello()">
+      Show time
+    </button>
+    <hr>
+    <footer>
+      &copy; 2020 tom@abcd.com
+    </footer>
+  </body>
+
+</html>
